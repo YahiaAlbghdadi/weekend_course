@@ -1,0 +1,29 @@
+img {
+  width: 50px;
+  position: absolute
+}
+#face {
+  width: 400px;
+  margin: 8  916 522 108
+}
+#eyes2{
+  margin: 200 0 0 270;
+  width: 100;
+}
+#mouth1{
+  margin: 300 0 0 270;
+  width: 100;
+}
+#hair2{
+  margin: 50 0 0 157;
+  width: 300;
+}
+#nose2{
+  margin: 250 0 0 300;
+  width: 40;
+}
+#ears2{
+  margin: 170 0 0 80;
+  width: 450
+}
+

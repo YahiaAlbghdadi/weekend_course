@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color:black ;
+    padding: 5px;
+    align-items: center;
+    justify-content:center;
+    
+    width: auto;
+}
+
+.navbar > *{
+    padding: 5px 
+}
+
+.logo{
+    display: flex;
+    width: 10%;
+    width: 100px;
+}
+
+.austria{
+    display: flex;
+    width: 80px;
+}
+
+#search-bar{
+    width: 93%;
+    height: 40px;
+    border-radius: 5px;
+}
+.search-div{
+    width: 63%;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-between;
+}
+
+button{
+    background-color: rgb(243, 185, 78);
+    border:none;
+    border-radius: 5px;
+    width: 6%;
+}
+
+.countries{
+    width: 150px;
+}
+
+.topSecret{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: orangered;
+}
+
+
