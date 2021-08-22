@@ -1,0 +1,150 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color:black ;
+    padding:0px;
+    align-items: center;
+    justify-content:center;
+    width: auto;
+}
+
+.navbar > *{
+    padding: 5px;
+}
+
+.logo{
+    display: flex;
+    width: 10%;
+    width: 100px;
+}
+
+.austria{
+    display: flex;
+    width: 80px;
+}
+
+#search-bar{
+    width: 93%;
+    height: 40px;
+    border-radius: 5px;
+}
+.search-div{
+    width: 63%;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-between;
+
+}
+
+button{
+    background-color: rgb(243, 185, 78);
+    border:none;
+    border-radius: 5px;
+    width: 6%;
+}
+
+.countries{
+    width: 150px;
+}
+
+
+
+.secnav{
+    display: flex;
+    width: auto;
+    height: 40px;
+    background-color: rgb(35, 51, 80);
+    align-items: center;
+}
+
+.secnav_links{
+    display: inline-flex;
+    padding: 10px;
+    color:white ;
+    text-decoration: none;
+    height: 10px;
+    align-items: center;
+   
+}
+
+.secnav_links:hover{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 75%;
+    margin: 0px auto;
+    justify-content: center;    
+    background-image: linear-gradient(#305bb8, white);
+    min-width: fit-content;
+}
+
+.hero{
+    width: 100%;
+    min-width: 200px;
+    max-width: 500px;
+}
+
+.column1{
+    display: inline-flex;
+}
+
+.column2{
+    display:block;
+}
+
+
+.signIn{
+    text-align: center;
+    padding: 10%;
+    background-color: white;
+    border: 10px solid rgba(255,255,255,.5) ;
+    margin: 20px  ;
+    max-width: 100%;
+}
+
+.holder{
+    display: flex;
+    flex-direction: column;
+    max-width: max-content;
+    
+}
+
+.table{
+    max-width: fit-content;
+    padding: 2%;
+    background-color: white;
+    border: 10px solid rgba(255,255,255,.5) ;
+    margin: 20px  ;
+    box-shadow: 4px 2px 2px #8791a7;}
+
+
+.secureButton{
+    width: 70px;
+}
+
+h2{
+    width: 100%;
+}
+
+
+
+
+
+
